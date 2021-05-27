@@ -110,6 +110,15 @@ namespace ConsoleApp1
 
             ClassA aInterface=new ClassA();
             aInterface.Show();
+
+            string[] colors={"blue", "green","red","pink", "yellow"};
+
+            foreach(string _color in colors){
+                Console.WriteLine(_color);
+            }
+            Console.WriteLine(colors[1]);
+            Console.WriteLine(colors[2]);
+            
         }
     }
 }
