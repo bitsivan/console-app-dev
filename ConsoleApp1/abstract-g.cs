@@ -10,7 +10,7 @@ public class G1:G
 {
     public override void Hello()
     {
-        Console.WriteLine("Hello G1");
+        Console.WriteLine("Hello G1 Test");
     }
 }
 
