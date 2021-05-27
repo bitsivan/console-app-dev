@@ -1,0 +1,10 @@
+OTM.API.Persistence/bin/
+OTM.API.Persistence/obj/
+OTM.API.Services/bin/
+OTM.API.Services/obj/
+OTM.Persistence/bin/
+OTM.Persistence/obj/
+OTM.Services/bin/
+OTM.Services/obj/
+OTM/ClientApp/.history/
+.vs/
