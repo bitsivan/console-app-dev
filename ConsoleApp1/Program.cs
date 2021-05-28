@@ -116,9 +116,6 @@ namespace ConsoleApp1
             foreach(string _color in colors){
                 Console.WriteLine(_color);
             }
-            Console.WriteLine(colors[1]);
-            Console.WriteLine(colors[2]);
-            
         }
     }
 }
